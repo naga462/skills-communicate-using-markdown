@@ -10,4 +10,7 @@ if (x=== "hello")
 console.log("success");
 }
 ```
+- [ ] yes
+- [ ] No
+- [x] None of the Above
 ![ Demo Image](https://octodex.github.com/images/yaktocat.png)
